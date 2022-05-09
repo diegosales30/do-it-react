@@ -1,6 +1,5 @@
 # todo list
 
-criado com reactJs
 ###Deploy
 link --->  https://do-it-react.vercel.app/
 

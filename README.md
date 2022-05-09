@@ -12,9 +12,8 @@ link --->  https://do-it-react.vercel.app/
 - <img src="https://img.shields.io/static/v1?label=jsx&message=Markup&language&color=orange&style=for-the-badge&logo=JSX"/>
 
 
-### Como rodar a aplicação:
-```
-Instale as dependencias:
+### Instale as dependencias:
+
 ```
 yarn add react-icons
 yarn add styled-components

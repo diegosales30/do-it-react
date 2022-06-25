@@ -24,6 +24,7 @@ yarn add react-hook-form yup hookform/resolvers
 Execute a aplicação:
 ```
 yarn start
+para iniciar
 ```
 
 ## Linguagens e libs :books:

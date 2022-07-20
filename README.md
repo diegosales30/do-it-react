@@ -27,7 +27,6 @@ yarn start
 
 ```
 
-/////
 
 ## Linguagens e libs :books:
 

@@ -27,7 +27,7 @@ yarn start
 
 ```
 
-
+add readme
 
 
 ## Linguagens e libs :books:

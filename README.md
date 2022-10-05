@@ -26,7 +26,6 @@ Execute a aplicação:
 yarn start
 
 ```
-...
 
 
 
